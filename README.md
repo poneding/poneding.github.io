@@ -1,8 +1,8 @@
 # Pone Ding 主页
 
-## [博客](https://blog.poneding.com)
+## [我的博客](https://blog.poneding.com)
 
-## [笔记](https://notes.poneding.com)
+## [我的知识库](https://kb.poneding.com)
 
 ## 项目
 
@@ -10,4 +10,4 @@
 
 [Go 编程](https://pg.poneding.com)
 
-[GitBook Summary Generator](https://poneding.com/gitbook-summary-generator)
+[mdi(生成 Markdown 索引工具)](https://poneding.com/gitbook-summary-generator)
