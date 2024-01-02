@@ -10,4 +10,8 @@
 
 [Go 编程](https://pg.poneding.com)
 
-[mdi(生成 Markdown 索引工具)](https://poneding.com/gitbook-summary-generator)
+[mdi(生成 Markdown 索引工具)](https://mdi.poneding.com)
+
+## 开源
+
+[Ketches(云原生平台)](https://ketches.cn)
